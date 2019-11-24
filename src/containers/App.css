@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'CF Anarchy Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('CF Anarchy Regular'), url('CFAnarchy-Regular.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'CF Anarchy Regular';
+        font-weight: 200;
+        color: ghostwhite;
+    }
